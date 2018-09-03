@@ -1,0 +1,71 @@
+/*default for page*/
+{
+	padding: 0;
+	text-decoration: none;
+	margin: 0;
+}
+/*heading*/
+#main-header
+{
+	margin: 0;
+	background-color: #3ECAE8;
+	padding-bottom: 15px;
+}
+#navbar
+{
+	text-transform: uppercase;
+	text-align: center;
+	text-decoration: none;
+}
+#navbar li
+{
+	list-style: none;
+	display: inline;
+	padding-right: 10px;
+}
+#navbar a
+{
+	text-decoration: none;
+}
+#navbar a:hover
+{
+	color:#FF4500;
+	border-bottom: 3px solid #56a79a;
+	padding-bottom: 3px;
+}
+/*Brands heading*/
+.heading-1
+{
+	text-align: center;
+	color: #C0C0C0;
+	background-color: #000000;
+}
+/*logo's*/
+.logos
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.content-1
+{
+	padding: 1em;
+}
+/*about*/
+.about
+{
+	background-color:#3ECAE8;
+	text-align: center; 
+}
+.detail p.italic
+{
+    font-style: italic;
+}
+/*footer*/
+#section-c
+{
+	text-align: center;
+	background-color: #000000;
+	color: #C0C0C0;
+}
